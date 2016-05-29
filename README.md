@@ -4,3 +4,7 @@
 # http://www.rjmprogramming.com.au/Games/Nimh/index.php?isMobile=n&sch=893&scw=1429&wih=740&wiw=1429
 # ... and the NetBeans ideas are shown in tutorial ...
 # http://www.rjmprogramming.com.au/ITblog/netbeans-maven-java-web-application-primer-tutorial/
+... and how this fits in with Jenkins is explained at ...
+http://www.rjmprogramming.com.au/ITblog/jenkins-and-netbeans-maven-project-primer-tutorial/
+
+
